@@ -1,8 +1,10 @@
 
-# Amazon Echo skill alikeness verification
+# Smart Home Skill Verification POC
 Ever tried asking for Alexa to play music but then she asks for your debit card information? Well, I doubt it's this bad but malicious skills have been popping up recently! So, what is the patch for voice recognized malicious calls on the Alexa?
 
-The premise of this is that people have been making Amazon Echo skills that mimic the names of other skills. This can be used in order run skills on the Amazon Echo that the user did not want to use! So, I have created a *proof of concept fix* for this. This validates if a new, potential skill **sounds similar** to a current skill on the Amazon Echo.
+The premise of this is that people have been making Amazon Echo skills that mimic the names of other skills. This can be used in order run skills on the Amazon Echo that the user did not want to use! So, I have created a *proof of concept fix* for this. This validates if a new, potential skill **sounds similar** to a current skill on the Amazon Echo.  
+
+I heard about this on [Steve Gibson's](grc.com) [Security Now](https://twit.tv/shows/security-now) immediately starting working on a proof of concept fix of the current issue. So, S/O to my favorite security podcast man!
 
 # How it works:
 
