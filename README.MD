@@ -40,4 +40,4 @@ There are some major issues with this. However, I thought a quick and dirty proo
 - Only one pronunciation is being verified. Could be verifying all pronunciations of the word.
 - Doesn't have the actual Alexa skills loaded into it.
 
-*Made by ILY, aka Maxwell Dulin in 2018*
+*Made by ꓘ , aka Maxwell Dulin in 2018*
